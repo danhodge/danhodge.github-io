@@ -1,7 +1,7 @@
 # Site settings
 title: Service Object
 description: > # this means to ignore newlines until "baseurl:"
-  Thoughts on web application design and the code that does not fit into
+  Thoughts on web application design and the code that doesn't fit into
   the model, view, or the controller.
 #baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "http://yourdomain.com" # the base hostname & protocol for your site

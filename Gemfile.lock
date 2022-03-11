@@ -281,6 +281,8 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 225)
   jekyll-feed (~> 0.6)
+  jekyll-paginate
+  jekyll-remote-theme
   kramdown-parser-gfm
   minima (~> 2.0)
   tzinfo (~> 1.2)

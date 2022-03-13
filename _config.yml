@@ -29,6 +29,9 @@ remote_theme: jeffreytse/jekyll-theme-yat
 permalink: /:year-:month-:day/:title
 paginate: 5
 
+header_pages:
+  - about.md
+
 plugins:
   - jekyll-feed
   - jekyll-paginate

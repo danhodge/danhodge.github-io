@@ -31,6 +31,8 @@ paginate: 5
 
 header_pages:
   - about.md
+  - categories.md
+  - tags.md
 
 plugins:
   - jekyll-feed

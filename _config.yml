@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Service Object
 email: your-email@example.com
+author: danhodge
 description: >- # this means to ignore newlines until "baseurl:"
   Thoughts on web application design and the code that doesn't fit into
   the model, view, or the controller.
@@ -33,6 +34,12 @@ header_pages:
   - about.md
   - categories.md
   - tags.md
+
+defaults:
+  home:
+    heading: "My awesome heading"
+    subheading: "My awesome subheading"
+    banner: assets/images/banners/header.jpg
 
 plugins:
   - jekyll-feed
